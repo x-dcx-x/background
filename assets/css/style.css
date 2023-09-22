@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+body{
+    background-color: antiquewhite;
+    background-image: url("../img/man.png"),url("../img/tools.png");
+    background-repeat: no-repeat;
+    background-size: 200px,150px;
+    background-attachment: fixed,scroll;
+    background-position: bottom 50px right 50px,top left;
+
+
+}
+
+h1{
+    color: orange;
+}
+
